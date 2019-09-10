@@ -1,7 +1,7 @@
 Comisión,Ronda_captura,Notas
-Agricultura y Sistemas de Riego ,1,
+Agricultura y Sistemas de Riego ,1,Tres dias capturados por legisladores de forma extraña. Homologado.
 Agua Potable y Saneamiento ,1,
-Asuntos de la Frontera Norte ,1,
+Asuntos de la Frontera Norte ,1,Un dia capturado por legisladores de forma extraña. Homologado. Invitados especiales
 Asuntos de la Frontera Sur-Sureste ,1,
 Asuntos Indígenas ,1,
 Asuntos Migratorios ,1,
@@ -11,16 +11,16 @@ Ciencia y Tecnología ,1,
 Competitividad ,1,
 Comunicaciones ,1,
 Cultura y Cinemetografía ,1,
-Defensa Nacional ,1,
+Defensa Nacional ,1,Un dia capturado por legisladores de forma extraña. Homologado.
 Deporte ,1,
 Derechos de la Niñez ,1,
 Derechos Humanos ,1,
 Desarrollo Metropolitano ,1,
 Desarrollo Municipal ,1,
 Desarrollo Rural ,1,
-Desarrollo Social,1,
+Desarrollo Social,1,En esta comision se usa un formato donde se especifica el rango seguido de dos puntos con los diputados de dicho rango. Se corrige para homologarlo con los demás.
 Desarrollo Urbano y Ordenamiento Territorial ,1,
-Distrito Federal ,1,
+Distrito Federal ,1,Un dia capturado por legisladores de forma extraña. Homologado.
 Economía ,1,
 Educación Pública y Servicios Educativos ,2,Las personas con justificante se ponen en una linea despues de los asistentes. Cada sesion diferente se divide por doble linea blaca. Quitar los “ y “ y cambiarlo por comas.
 Energía ,2,Agregada la linea de ausentes_al_inicio Eliminados los que dicen que asimismo estuvieron presentes. Uso de inasistencias: NA
@@ -29,7 +29,7 @@ Fomento Cooperativo y Economía Social ,2,
 Fortalecimiento al Federalismo ,2,No se registran todos solo los integrantes de la directiva en muchos casos
 Ganadería ,2,Justificante:
 Gobernación ,2,secretarios;
-Hacienda y Crédito Público ,1,
+Hacienda y Crédito Público ,1,Formato de comisión dividido endiputados asistentes: … y diputados ausentes: … Homologado.
 Infraestructura ,2,"Todo fue con punto y coma de presidente, secretarios e integrantes."
 Jurisdiccional ,2,
 Justicia ,2,
@@ -54,6 +54,3 @@ Transportes ,3,
 Turismo ,3,
 Vivienda ,3,
 Vigilancia de la Auditoría Superior de la Federación,3,
-,,
-,,La base no puede ser usada para ver asistencias o inasistencias ya quea veces se rellenó aunque no hubiera rubrica.
-,,Tiene el problema de a veces solo registrar a la junta directiva y no a todos los integrantes que asistieron efectivamente

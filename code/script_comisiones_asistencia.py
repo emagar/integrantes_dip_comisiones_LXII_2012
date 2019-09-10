@@ -2,7 +2,7 @@ import re
 import os
 
 my_path = os.path.abspath(os.path.dirname(__file__))
-path = os.path.join(my_path, "../data/asistencias_descargadas/")
+path = os.path.join(my_path, "../data/asistencias_extractos_actas/")
 
 lista = []
 
@@ -47,7 +47,7 @@ for filename in listdir_fullpath(path):
                     for nombre in nombres:
                         lista.append(os.path.basename(filename) + "\t"
                                      + fecha + "\t"
-                                     + nombre.rstrip() +"\t"
+                                     + nombre.rstrip().lstrip(" ") +"\t"
                                      + str(x) + "\t"
                                      + tipo + "\t"
                                      + str(i) + "\n") #Se forma la lista final tipo csv con tabuladores
@@ -60,7 +60,7 @@ for filename in listdir_fullpath(path):
                          + "" + "\n")
 
 #Guardar en archivo #No lo crea si ya existe uno llamado asi
-with open('Nombres.csv', 'w') as file:
+with open('../Asistencia_diputados.csv', 'w') as file:
     file.write("Comision" + "\t"
                + "Fecha" + "\t"
                + "Nombre" +"\t"
