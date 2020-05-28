@@ -1,0 +1,5 @@
+Tareas pendientes comisiones
+
+- Buscar integración original comisiones leg60 y leg64
+
+- Vaciar info en dip62.txt. Las columnas relevantes son prescom y seccom. Usa una abreviatura del nombre de la comisión correspondiente. 
