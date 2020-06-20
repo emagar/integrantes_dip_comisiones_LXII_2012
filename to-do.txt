@@ -1,8 +1,10 @@
 Tareas pendientes comisiones
 
-- Buscar integración original comisiones leg60 y leg64
+- [X] Buscar integración original comisiones leg60, vaciar a dip60.csv
 
-- Vaciar info en dip62.txt. Las columnas relevantes son prescom y seccom. Usa una abreviatura del nombre de la comisión correspondiente (sin espacios). En caso de diputado secretario en dos o más comisiones, las abreviaturas van separadas por un espacio. P.ej. agric RREE turismo
+- [ ] Buscar integración original comisiones leg64, vaciar a dip64.csv
 
-  - las fuentes relevantes son 121016-2_diputados_comisiones.pdf (p. 73/185) 
+- [ ] Vaciar info en dip62.csv. La columna relevante es prescom, seccom no la he sistematizado (usa una abreviatura del nombre de la comisión correspondiente (sin espacios); en caso de diputado secretario en dos o más comisiones, las abreviaturas van separadas por un espacio, p.ej. agric RREE turismo)
+
+  - [ ] las fuentes relevantes son 121016-2_diputados_comisiones.pdf (p. 73/185) 
 12_10_23-1_comisiones_prd.pdf
